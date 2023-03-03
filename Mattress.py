@@ -11,14 +11,14 @@ moiz.maxsize(350,350)
 moiz.title("Mattress")
 moiz.iconbitmap("logo/App_logo.ico")
 # === Image ===
-dia_pic = customtkinter.CTkImage(dark_image=Image.open('logo/Img_logo.png'),size=(125,125))
+dia_pic = customtkinter.CTkImage(dark_image=Image.open('logo/Img_logo.png'),size=(150,150))
 dia_img = customtkinter.CTkLabel(moiz,text="",image=dia_pic)
 dia_img.place(x=110,y=20)
 # === Function ===
 def run():
     if ue.get() != "moiz":
         return msg.showinfo("Error", "       4 0 4\n Username Error")
-    elif pe.get() != "1234":
+    elif pe.get() != "346":
         return msg.showinfo("Error", "       4 0 4\n Password Error")
     else:
         return inventory()
