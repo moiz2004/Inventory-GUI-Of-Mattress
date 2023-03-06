@@ -30,10 +30,10 @@ Password: **346**
 I'm creating this application for foam industry dealers who do not know about computers and they are only writing shop data in  register books
 
 | `Bill` Help to minus`-` the items from database.
-<img src="logo/bill.png" width="500"/>
+![](https://github.com/moiz2004/Inventory-GUI-Of-Mattress/blob/main/logo/Bill.png)
 
 | `Challan` Use to write down the entries in database.
-<img src="logo/challan.png" width="500"/>
+![](https://github.com/moiz2004/Inventory-GUI-Of-Mattress/blob/main/logo/Challan.png)
 
 | `Stock` Window is a ***database***.Where the shopkeepers check the detail about inventory
-<img src="logo/stock.png"/>
+![](https://github.com/moiz2004/Inventory-GUI-Of-Mattress/blob/main/logo/Stock.png)
